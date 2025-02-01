@@ -1,7 +1,7 @@
 # About Me
 Welcome, I'm learning to git-good.
 
-![Definetly not a sock](images/not_a_sock.png)
+
 <p align="centre">
 <img=src="images/not_a_sock.png" width="200" alt="not_a_sock"
 </p>
