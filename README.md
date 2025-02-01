@@ -17,5 +17,9 @@ Welcome, I'm learning to git-good.
 - **LibreOffice Macros**: Automating spreadsheet tasks
 
 ##### Find me #####
-- GitHub: [not_a_sock](https://github.com/not-a-sock)
-- Discord: [not_a_sock](https://www.google.com)
+- GitHub: [not_a_sock - Here](https://github.com/not-a-sock)
+- Discord: [not_a_sock @ Discord](https://www.google.com)
+- Instagram: [not_a_sock @ Instagram](https://www.google.com)
+- Facebook: [not_a_sock @ Facebook](https://www.google.com)
+- Reddit: [not_a_sock @ Reddit](https://www.google.com)
+- Linkedin: [not_a_sock @ Linkedin](https://www.google.com)
