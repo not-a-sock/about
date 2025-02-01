@@ -2,6 +2,6 @@ about
 
 
 # Add an image
-![not-a-sock][not-a-sock.png]
+![not-a-sock][images/not-a-sock.png]
 
 
