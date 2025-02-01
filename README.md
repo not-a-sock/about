@@ -2,8 +2,8 @@
 Welcome, I'm learning to git-good.
 
 
-<p align="centre">
-<img src="images/not_a_sock.png" width="200" alt="not_a_sock"
+<p align="center">
+<img src="images/not_a_sock.png" width="200" alt="not_a_sock">
 </p>
 
 ##### 🔧 Tech, Tools & Interests #####
